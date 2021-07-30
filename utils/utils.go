@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	razorpay "github.com/razorpay/razorpay-go"
+	razorpay "code.nurture.farm/nurture.trade/razorpay-go"
 	"github.com/stretchr/testify/assert"
 )
 

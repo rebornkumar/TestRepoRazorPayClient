@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/razorpay/razorpay-go/constants"
-	"github.com/razorpay/razorpay-go/utils"
+	"code.nurture.farm/nurture.trade/razorpay-go/constants"
+	"code.nurture.farm/nurture.trade/razorpay-go/utils"
 	"github.com/stretchr/testify/assert"
 )
 

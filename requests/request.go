@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/razorpay/razorpay-go/constants"
-	"github.com/razorpay/razorpay-go/errors"
+	"code.nurture.farm/nurture.trade/razorpay-go/constants"
+	"code.nurture.farm/nurture.trade/razorpay-go/errors"
 )
 
 //Auth holds the values required to authenticate the requests made to Razorpay APIs

@@ -1,4 +1,4 @@
-module github.com/razorpay/razorpay-go
+module code.nurture.farm/nurture.trade/razorpay-go
 
 go 1.14
 
