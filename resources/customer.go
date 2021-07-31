@@ -28,5 +28,5 @@ func (cust *Customer) Edit(customerID string, data map[string]interface{}, extra
 
 	url := fmt.Sprintf("%s/%s", constants.CUSTOMER_URL, customerID)
 
-	return cust.Request.Post(url, data, extraHeaders)
+	return cust.Request.Put(url, data, extraHeaders)
 }

@@ -6,7 +6,8 @@ import (
 
 	"github.com/razorpay/razorpay-go/constants"
 	"github.com/razorpay/razorpay-go/requests"
-	"github.com/razorpay/razorpay-go/resources"
+	"github.com/rebornkumar/TestRepoRazorPayClient/resources"
+	//"github.com/rebornkumar/TestRepoRazorPayClient/resources"
 )
 
 //Request ...
