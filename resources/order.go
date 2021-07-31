@@ -3,8 +3,8 @@ package resources
 import (
 	"fmt"
 
-	"code.nurture.farm/nurture.trade/razorpay-go/constants"
-	"code.nurture.farm/nurture.trade/razorpay-go/requests"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/constants"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/requests"
 )
 
 //Order ...

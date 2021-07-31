@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"code.nurture.farm/nurture.trade/razorpay-go/constants"
-	"code.nurture.farm/nurture.trade/razorpay-go/requests"
-	"code.nurture.farm/nurture.trade/razorpay-go/resources"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/constants"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/requests"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/resources"
 )
 
 //Request ...

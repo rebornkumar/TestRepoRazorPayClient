@@ -1,4 +1,4 @@
-module code.nurture.farm/nurture.trade/razorpay-go
+module code.nurture.farm/nurture.trade/razorpaygoclient
 
 go 1.14
 

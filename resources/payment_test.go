@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"code.nurture.farm/nurture.trade/razorpay-go/constants"
-	"code.nurture.farm/nurture.trade/razorpay-go/utils"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/constants"
+	"code.nurture.farm/nurture.trade/razorpaygoclient/utils"
 	"github.com/stretchr/testify/assert"
 )
 
